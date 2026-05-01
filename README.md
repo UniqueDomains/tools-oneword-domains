@@ -1,10 +1,10 @@
-# Available .TOOLS One-Word Domains (10,340)
+# Available .TOOLS One-Word Domains (10,738)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C340%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C738%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tools one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,340 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,738 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,340 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,738 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/tools`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| lets.tools        | available | $17.99    | —             | 77             | 39     | 4      | name.com        |
-| life.tools        | resell    | —         | —             | 80             | 50     | 4      | Porkbun LLC     |
-| cars.tools        | premium   | $500      | —             | 66             | 47     | 4      | name.com        |
-| tickets.tools     | available | $17.99    | —             | 64             | 34     | 7      | name.com        |
-| tokens.tools      | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc     |
-| jobs.tools        | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
-| island.tools      | available | $17.99    | —             | 72             | 33     | 6      | name.com        |
-| teachers.tools    | resell    | —         | —             | 56             | 22     | 8      | NameCheap, Inc. |
-| photos.tools      | premium   | $82.50    | —             | 54             | 28     | 6      | name.com        |
-| rewards.tools     | available | $17.99    | —             | 62             | 30     | 7      | name.com        |
-| Tests.tools       | resell    | —         | —             | 49             | 21     | 5      | Sav.com, LLC    |
-| boats.tools       | premium   | $123.75   | —             | 52             | 24     | 5      | name.com        |
-| dogs.tools        | available | $17.99    | —             | 76             | 28     | 4      | name.com        |
-| tabs.tools        | resell    | —         | —             | 46             | 19     | 4      | Spaceship, Inc. |
-| products.tools    | premium   | $82.50    | —             | 60             | 23     | 8      | name.com        |
-| gems.tools        | available | $17.99    | —             | 70             | 28     | 4      | name.com        |
-| travels.tools     | resell    | —         | —             | 64             | 18     | 7      | Porkbun LLC     |
-| restaurants.tools | premium   | $82.50    | —             | 57             | 21     | 11     | name.com        |
-| Keith.tools       | available | $47.48    | —             | 66             | 25     | 5      | namecheap       |
-| tattooing.tools   | resell    | —         | —             | 68             | 5      | 9      | IONOS SE        |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| lets.tools      | available | $17.99    | —             | 77             | 39     | 4      | name.com        |
+| life.tools      | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC     |
+| jobs.tools      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
+| tickets.tools   | available | $17.99    | —             | 64             | 34     | 7      | name.com        |
+| tokens.tools    | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc     |
+| photos.tools    | premium   | $82.50    | —             | 54             | 28     | 6      | name.com        |
+| island.tools    | available | $17.99    | —             | 72             | 33     | 6      | name.com        |
+| teachers.tools  | resell    | —         | —             | 56             | 22     | 8      | NameCheap, Inc. |
+| boats.tools     | premium   | $123.75   | —             | 52             | 24     | 5      | name.com        |
+| dogs.tools      | available | $17.99    | —             | 76             | 28     | 4      | name.com        |
+| Tests.tools     | resell    | —         | —             | 49             | 21     | 5      | Sav.com, LLC    |
+| coupons.tools   | premium   | $78.54    | $78.54        | 52             | 24     | 7      | namesilo        |
+| gems.tools      | available | $17.99    | —             | 70             | 28     | 4      | name.com        |
+| tabs.tools      | resell    | —         | —             | 46             | 19     | 4      | Spaceship, Inc. |
+| products.tools  | premium   | $82.50    | —             | 60             | 23     | 8      | name.com        |
+| Keith.tools     | available | $47.48    | —             | 66             | 25     | 5      | namecheap       |
+| travels.tools   | resell    | —         | —             | 64             | 18     | 7      | Porkbun LLC     |
+| computers.tools | premium   | $82.50    | —             | 68             | 19     | 9      | name.com        |
+| Trex.tools      | available | $47.48    | —             | 80             | 24     | 5      | namecheap       |
+| pictures.tools  | premium   | $82.50    | —             | 82             | 17     | 8      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,340 live domains                              |
+| 1,000-row public sample | 10,738 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOOLS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOOLS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
