@@ -67,10 +67,10 @@ print(df.head())
 | lets.tools      | available | $17.99    | —             | 77             | 39     | 4      | name.com        |
 | life.tools      | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC     |
 | jobs.tools      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
-| tickets.tools   | available | $17.99    | —             | 64             | 34     | 7      | name.com        |
+| island.tools    | available | $17.99    | —             | 72             | 34     | 6      | name.com        |
 | tokens.tools    | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc     |
 | photos.tools    | premium   | $82.50    | —             | 54             | 28     | 6      | name.com        |
-| island.tools    | available | $17.99    | —             | 72             | 33     | 6      | name.com        |
+| tickets.tools   | available | $17.99    | —             | 64             | 34     | 7      | name.com        |
 | teachers.tools  | resell    | —         | —             | 56             | 22     | 8      | NameCheap, Inc. |
 | boats.tools     | premium   | $123.75   | —             | 52             | 24     | 5      | name.com        |
 | dogs.tools      | available | $17.99    | —             | 76             | 28     | 4      | name.com        |
