@@ -1,10 +1,10 @@
-# Available .TOOLS One-Word Domains (10,752)
+# Available .TOOLS One-Word Domains (10,753)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C752%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C753%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .tools one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,752 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,753 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,752 domains · **Median ask:** $22.11 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,753 domains · **Median ask:** $22.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tools`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tools`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TOOLS one-word domain
 
 ### Files
 
-- `tools.csv` — public CSV extract (1,000 rows)
-- `tools.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tools.csv`, public CSV extract (1,000 rows)
+- `tools.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| lets.tools      | available | $17.99    | —             | 77             | 39     | 4      | name.com        |
-| life.tools      | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC     |
-| jobs.tools      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com        |
-| island.tools    | available | $17.99    | —             | 72             | 34     | 6      | name.com        |
-| tokens.tools    | resell    | —         | —             | 51             | 36     | 6      | Dynadot Inc     |
-| photos.tools    | premium   | $82.50    | —             | 54             | 28     | 6      | name.com        |
-| tickets.tools   | available | $17.99    | —             | 64             | 34     | 7      | name.com        |
-| teachers.tools  | resell    | —         | —             | 56             | 22     | 8      | NameCheap, Inc. |
-| boats.tools     | premium   | $123.75   | —             | 52             | 24     | 5      | name.com        |
-| goodlife.tools  | available | $17.99    | —             | 60             | 31     | 9      | name.com        |
-| Tests.tools     | resell    | —         | —             | 49             | 21     | 5      | Sav.com, LLC    |
-| coupons.tools   | premium   | $78.54    | $78.54        | 52             | 24     | 7      | namesilo        |
-| dogs.tools      | available | $17.99    | —             | 76             | 28     | 4      | name.com        |
-| tabs.tools      | resell    | —         | —             | 46             | 19     | 4      | Spaceship, Inc. |
-| products.tools  | premium   | $82.50    | —             | 60             | 23     | 8      | name.com        |
-| gems.tools      | available | $17.99    | —             | 70             | 28     | 4      | name.com        |
-| travels.tools   | resell    | —         | —             | 64             | 18     | 7      | Porkbun LLC     |
-| computers.tools | premium   | $82.50    | —             | 68             | 19     | 9      | name.com        |
-| Keith.tools     | available | $47.48    | —             | 66             | 25     | 5      | namecheap       |
-| pictures.tools  | premium   | $82.50    | —             | 82             | 17     | 8      | name.com        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| ago.tools         | available | $17.99    | $52.99        | medium         | low    | 3      | name.com                                                  |
+| chip.tools        | resell    | $17.99    | —             | high           | low    | 4      | Porkbun LLC                                               |
+| aid.tools         | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
+| ala.tools         | available | $17.99    | —             | high           | low    | 3      | name.com                                                  |
+| accountancy.tools | resell    | $17.99    | —             | medium         | low    | 11     | GoDaddy.com, LLC                                          |
+| bud.tools         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| Ann.tools         | available | $47.48    | —             | high           | low    | 3      | namecheap                                                 |
+| any.tools         | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| fit.tools         | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| bce.tools         | available | $17.99    | —             | medium         | low    | 3      | name.com                                                  |
+| hot.tools         | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| hat.tools         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| cry.tools         | available | $17.99    | —             | high           | low    | 3      | name.com                                                  |
+| pin.tools         | resell    | —         | —             | high           | low    | 3      | Dominet (HK) Limited                                      |
+| men.tools         | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
+| hum.tools         | available | $17.99    | —             | high           | low    | 3      | name.com                                                  |
+| game.tools        | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| pot.tools         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| lag.tools         | available | $17.99    | —             | medium         | low    | 3      | name.com                                                  |
+| info.tools        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,752 live domains                        |
+| 1,000-row public sample | 10,753 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .tools domains. The range runs from clean, broad words such as bit.tools and inverse.tools to more unusual choices such as recondite.tools and happening.tools. For founders, the strongest candidates are usually the names that are easy to say, easy to spell, and clearly compatible with a product, utility, or developer-facing brand. For investors, the key question is whether the word has broad commercial meaning and enough buyer overlap to justify holding it. The median ask across this selection is 22.11, so price discipline matters less than naming quality and trademark exposure.
+This selection covers 10,753 one-word .tools domain names, ranging from short, punchy picks like Trex.tools and Homes.tools to descriptive coinages such as Coffeecupful.tools and Restassured.tools. The .tools extension signals utility and product-focused branding, making these names natural fits for SaaS tools, marketplaces, and dev-facing products. Median ask across the set is $22.83, keeping most names within reach for early-stage founders while leaving room for investors to compare spread across a large pool of options. Because pricing and availability vary domain by domain, evaluating renewal cost alongside brandability is the fastest way to narrow this list to names worth acting on.
 
-- Prefer clear words over obscure or hard-to-spell terms
-- Check trademark risk on branded terms like Nickelodeon.tools
-- Broad utility words usually offer better buyer coverage
-- Use ask price as a filter, not a substitute for quality
+- 10,753 one-word .tools domain names in this set
+- Median ask: $22.83 across the selection
+- Mix of short brands and descriptive coinages (Trex, Homes, Superhero)
+- Updated daily to reflect current .tools availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOOLS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOOLS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
