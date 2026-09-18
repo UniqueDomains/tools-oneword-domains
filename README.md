@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tools one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,694 domains · **Median ask:** $14.10 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/tools`
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,6 @@ print(df.head())
 | half.tools        | available | $17.99    | —             | high           | low    | 4      | name.com                                                  |
 | here.tools        | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo                                                  |
 | YouTube.tools     | available | —         | —             | high           | medium | 7      | —                                                         |
-| second.tools      | available | $17.99    | $52.99        | high           | low    | 6      | name.com                                                  |
 | ago.tools         | available | $17.99    | $52.99        | medium         | low    | 3      | name.com                                                  |
 | chip.tools        | resell    | $17.99    | —             | high           | low    | 4      | Porkbun LLC                                               |
 | aid.tools         | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                  |
@@ -84,6 +83,7 @@ print(df.head())
 | pin.tools         | resell    | —         | —             | high           | low    | 3      | Dominet (HK) Limited                                      |
 | men.tools         | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
 | hum.tools         | available | $17.99    | —             | high           | low    | 3      | name.com                                                  |
+| bill.tools        | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOOLS One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOOLS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
