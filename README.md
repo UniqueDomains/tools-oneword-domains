@@ -1,10 +1,10 @@
-# Available .TOOLS One-Word Domains (20,527)
+# Available .TOOLS One-Word Domains (22,134)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C527%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C134%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tools one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,527 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,134 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,527 domains · **Median ask:** $15.77 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,134 domains · **Median ask:** $15.76 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/tools`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| afc.tools    | available | $28.20    | $28.20        | high           | low    | 3      | cloudflare                                                |
+| winner.tools | resell    | $17.99    | —             | high           | low    | 6      | name.com                                                  |
+| few.tools    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
 | alp.tools    | available | $18.99    | $36.49        | high           | low    | 3      | namesilo                                                  |
 | any.tools    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| few.tools    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| lot.tools    | premium   | $260      | $260          | high           | low    | 3      | namecheap                                                 |
 | anu.tools    | available | $18.99    | $36.49        | medium         | low    | 3      | namesilo                                                  |
 | pay.tools    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| inn.tools    | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                                 |
-| atf.tools    | available | $8.48     | $47.48        | high           | low    | 3      | namecheap                                                 |
-| boys.tools   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| lot.tools    | premium   | $260      | $260          | high           | low    | 3      | namecheap                                                 |
-| bey.tools    | available | $18.99    | $36.49        | medium         | low    | 3      | namesilo                                                  |
-| echo.tools   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
 | man.tools    | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap                                                 |
-| hon.tools    | available | $18.99    | $36.49        | high           | low    | 3      | namesilo                                                  |
-| trend.tools  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                           |
+| atf.tools    | available | $8.48     | $47.48        | high           | low    | 3      | namecheap                                                 |
+| pcb.tools    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | sod.tools    | premium   | $52.99    | $41.25        | medium         | low    | 3      | name.com                                                  |
-| idk.tools    | available | $17.99    | —             | medium         | low    | 3      | name.com                                                  |
-| clutch.tools | resell    | —         | —             | high           | low    | 6      | —                                                         |
+| hon.tools    | available | $18.99    | $36.49        | high           | low    | 3      | namesilo                                                  |
+| boys.tools   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
 | buzz.tools   | premium   | $85.80    | $85.80        | high           | low    | 4      | namecheap                                                 |
-| lav.tools    | available | $8.48     | $47.48        | medium         | low    | 3      | namecheap                                                 |
-| health.tools | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                               |
+| idk.tools    | available | $17.99    | —             | medium         | low    | 3      | name.com                                                  |
+| echo.tools   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
+| blink.tools  | premium   | $520      | $520          | high           | medium | 5      | namecheap                                                 |
+| jos.tools    | available | $28.20    | $28.20        | medium         | low    | 3      | cloudflare                                                |
+| trend.tools  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,527 live domains                        |
+| 1,000-row public sample | 22,134 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TOOLS One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TOOLS One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
